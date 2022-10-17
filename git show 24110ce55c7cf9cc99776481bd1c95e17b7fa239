@@ -16,24 +16,6 @@ Date:   Sun Oct 16 12:53:12 2022 -0700
 
     Foo
 
-[33mcommit 806e8660ac3631efc8b2d28f283f33ca77e33782[m
-Author: Jason White <jwnow23@gmail.com>
-Date:   Sun Oct 16 12:10:07 2022 -0700
-
-    Foo to repository
-
-[33mcommit 0da2a1fff580cacfa0bd41adce5e73224400b28e[m[33m ([m[1;32mls[m[33m)[m
-Author: Jason White <jwnow23@gmail.com>
-Date:   Sun Oct 16 11:51:56 2022 -0700
-
-    Foo to repository
-
-[33mcommit de13914077de73609eadf72aa5c214e3a53abe42[m
-Author: Jason White <jwnow23@gmail.com>
-Date:   Sun Oct 16 10:34:27 2022 -0700
-
-    Foo to repository
-
 [33mcommit 4edd01711dec25c2bf5746aa19bbd44e2d962e7e[m
 Author: Jason White <jwnow23@gmail.com>
 Date:   Sun Oct 16 10:28:46 2022 -0700
